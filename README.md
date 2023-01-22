@@ -86,7 +86,7 @@ Using Decision Tree = Train Accuracy_score = 0.9984558369363805 Test Accuracy_sc
 ## Data set
 
 - [Data Set](https://github.com/Anil0205/Spam-Mail-Detection/blob/main/spam.csv)
-- 
+
 ## Support
 
 For support, email anil.aa0514@gmail.com or join our Slack channel.
