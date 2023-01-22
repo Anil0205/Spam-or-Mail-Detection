@@ -30,7 +30,7 @@ A custom data loader class was built 3 data loaders were instantiated : for trai
 ## Custom Data Loader
 
 Sequence here means a vectorized list of words in an email. As we prepared 6,000 e-mails, we have 6,000 sequences.
-As sequences have different lengths, it is required to pass the length of each sequence into our model not to train our model on dummy numbers ( 0s for padding ).
+As sequences have different lengths, it is required to pass the length of each sequence into our model not to train our model on dummy numbers ( 0s for padding).
 
 Consequently, we need custom data loaders that return lengths of each sequence along with sequences and labels.
 
